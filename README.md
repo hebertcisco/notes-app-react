@@ -1,4 +1,4 @@
-# Notes App made with React
+# :floppy_disk: :orange_book:  Notes App made with React
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8017a7dc-b15e-40b1-8e4b-3a36728ff986/deploy-status)](https://app.netlify.com/sites/notes-app-react/deploys)
 
