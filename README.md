@@ -1,6 +1,9 @@
 # :floppy_disk: :orange_book:  Notes App made with React
 
 #### [Demo](https://notes-app-react.now.sh/)
+## ScreenShots:
+
+![Notes App made with React](https://raw.githubusercontent.com/tecnobert/notes-app-react/master/print/print-00.png)
 
 ## To install and start use:
 ```
