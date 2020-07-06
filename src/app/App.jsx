@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
 
 import { useTheme } from './theme/ThemeContext'
-import NotesContainer from './containers/NotesContainer'
+import NotesContainer from './containers/NotesContainer.jsx'
 import { GlobalStyle } from './styles/styles'
 import Brightness5Icon from '@material-ui/icons/Brightness5'
 import Brightness4Icon from '@material-ui/icons/Brightness4'
